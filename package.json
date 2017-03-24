@@ -1,0 +1,7 @@
+{
+  "name": "codeFightPlayground",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "tiny-lr": "^1.0.3"
+  }
+}
